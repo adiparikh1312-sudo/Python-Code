@@ -1,8 +1,0 @@
-a = "Krishna"
-b = "Sanshray"
-c = "Samarth"
-d = "Vanssh"
-e = "Rishaan"
-
-print(a,"\n", b,"\n", c,"\n", d,"\n", e)
-print("These are the names of my friends")
